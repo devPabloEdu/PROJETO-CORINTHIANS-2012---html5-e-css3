@@ -9,14 +9,20 @@ body{
 h1{
     color: white;
     text-align: center;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
 }
 h2{
     color: white;
     text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
 }
 p{
     color: white;
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 div.img-container{
